@@ -1,16 +1,25 @@
-## Hi there 👋
+# Mr Soapy — Founder & Builder
 
-<!--
-**MrSoapy11/MrSoapy11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Building dApps, bots & smart tools for the next web.
+> Founder @ IdeaHatch Labs
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Building
+
+| Project | What it does | Status |
+|---|---|---|
+| [IdeaHatch Labs](https://ideahatchlabs.com) | Web3 & automation studio | 🟢 Live |
+| Musicly | Discord music bot | 🟢 Live |
+| MrSoapy | TypeScript tooling | 🔨 Building |
+
+---
+
+## Connect
+
+- 🌐 [ideahatchlabs.com](https://ideahatchlabs.com)
+- 💼 Open to: Partnerships · Investments · Collabs
+
+---
+
+> *"Build things that matter."*
