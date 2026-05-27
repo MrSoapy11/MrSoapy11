@@ -10,15 +10,15 @@
 | Project | What it does | Status |
 |---|---|---|
 | [IdeaHatch Labs](https://ideahatchlabs.com) | Web3 & automation studio | 🟢 Live |
-| ChainPilot | AI-powered dApp for on-chain automation | 🔨 Building |
-| W3Bot | Web3 bot framework for Discord & Telegram | 🔨 Building |
-| NeuralDrop | AI tool for smart contract auditing & insights | 🧪 Research |
+| HumaTrade Bot | AI-powered trading automation for crypto, forex & stocks | 🔨 Building |
+| KAKA X AI Bot | Comedy-driven AI reply bot for Web3 community growth on X | 🔨 Building |
+| SocialFi Platform | Web3 social engagement & token reward ecosystem | 🧪 Research |
 
 ---
 
 ## Focus Areas
 
-`dApps` `AI Agents` `Web3 Bots` `Smart Contracts` `Automation`
+`AI Trading Bots` `Web3 Automation` `SocialFi` `dApps` `Telegram Bots` `Smart Contracts`
 
 ---
 
