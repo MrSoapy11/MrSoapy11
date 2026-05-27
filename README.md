@@ -18,7 +18,7 @@
 
 ## Focus Areas
 
-`AI Trading Bots` `Web3 Automation` `SocialFi` `dApps` `Telegram Bots` `Smart Contracts`
+`AI Agents` `Web3` `Automation` `Telegram Bots` `Smart Contracts` `Contract Auditing` `SocialFi` `dApps` `Trading Bots` `Token Ecosystems` `On-Chain Tools` `Community Growth`
 
 ---
 
